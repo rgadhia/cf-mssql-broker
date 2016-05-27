@@ -6,7 +6,7 @@
 	],
 	"Deps": [
 		{
-			"ImportPath": "code.google.com/p/odbc",
+			"ImportPath": "github.com/alexbrainman/odbc",
 			"Comment": "null-45",
 			"Rev": "6c29f5e00db9ba7212d3f3d6932ad3c417271eb8"
 		},
